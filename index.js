@@ -16,6 +16,12 @@ app.get("/courses", (req, res) => {
     res.send(courses);
 });
 
+app.get("/courses/:id", (req, res) => {
+    const id = parseInt(req.params.id);
+    const courseById = courses.find((course) => course.id === id);
+    res.send(courseById);
+});
+
 app.listen(port, () => {
     console.log(port);
 });

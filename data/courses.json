@@ -1,27 +1,122 @@
 [
     {
         "id": 1,
-        "name": "C Programming",
-        "image": "./assets/cover.jpg"
+        "title": "C Tutorial - Learn C Programming With Examples",
+        "image": "https://goedu.ac/wp-content/uploads/2020/12/Getting-Started-with-C-Programming-Language-Course-Image-GoEdu.jpg",
+        "description": "C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on.Our C tutorials will guide you to learn C programming one step at a time.",
+        "duration": "20",
+        "syllabus": {
+            "lesson1": "Introduction",
+            "lesson2": "Data Types",
+            "lesson3": "Operators",
+            "lesson4": "Array",
+            "lesson5": "Conditionals",
+            "lesson6": "Functions",
+            "lesson7": "Object",
+            "lesson8": "Project"
+        },
+        "price": "40",
+        "instructor": "Omar Hisham",
+        "rating": "4.3"
     },
     {
         "id": 2,
-        "name": "C++ Programming"
+        "title": "Learn C++ Programming With Core Concepts",
+        "image": "https://www.programmingfunda.com/wp-content/uploads/2020/10/online-cpp-tutorial-2.png",
+        "description": "C++ is a powerful general-purpose programming language. It can be used to develop operating systems, browsers, games, and so on. Our C++ programming tutorial will guide you to learn C++ programming one step at a time.",
+        "duration": "24",
+        "syllabus": {
+            "lesson1": "Introduction",
+            "lesson2": "Data Types",
+            "lesson3": "Operators",
+            "lesson4": "Array",
+            "lesson5": "Conditionals",
+            "lesson6": "Functions",
+            "lesson7": "Object",
+            "lesson8": "Project"
+        },
+        "price": "45",
+        "instructor": "Omar Hisham",
+        "rating": "4.5"
     },
     {
         "id": 3,
-        "name": "Java Programming"
+        "title": "Interactive Basic Java Tutorial For Beginners",
+        "image": "https://java2blog.com/wp-content/uploads/2020/12/CORE_JAVA_TUTORIAL_3.jpg",
+        "description": "Java is a powerful general-purpose programming language. It is used to develop desktop and mobile applications, big data processing, embedded systems, and so on. Our Java tutorial will guide you to learn Java one step at a time. Lets explore Java.",
+        "duration": "40",
+        "syllabus": {
+            "lesson1": "Introduction",
+            "lesson2": "Data Types",
+            "lesson3": "Operators",
+            "lesson4": "Array",
+            "lesson5": "Conditionals",
+            "lesson6": "Functions",
+            "lesson7": "Object",
+            "lesson8": "Project"
+        },
+        "price": "80",
+        "instructor": "Tina Almond",
+        "rating": "4.5"
     },
     {
         "id": 4,
-        "name": "Python Programming"
+        "title": "Learn Python Basic Programming With Fun",
+        "image": "https://i.ytimg.com/vi/woVJ4N5nl_s/maxresdefault.jpg",
+        "description": "Python is general purpose versatile and powerful programming language. It's a great first language because Python code is concise and easy to read. It will be more easy when you start with us. So lets start!",
+        "duration": "20",
+        "syllabus": {
+            "lesson1": "Introduction",
+            "lesson2": "Data Types",
+            "lesson3": "Operators",
+            "lesson4": "Array",
+            "lesson5": "Conditionals",
+            "lesson6": "Functions",
+            "lesson7": "Object",
+            "lesson8": "Project"
+        },
+        "price": "55",
+        "instructor": "Robert J.",
+        "rating": "4.3"
     },
     {
         "id": 5,
-        "name": "PHP Programming"
+        "title": "PHP Tutorial - An Ultimate Guide for Beginners From Scratch",
+        "image": "https://i.ytimg.com/vi/4PfUtr2x9z8/maxresdefault.jpg",
+        "description": "Our PHP tutorial will help you to learn the fundamentals of the PHP scripting language, from the basic to advanced topics step-by-step. Start with the basics and gradually move forward every day.",
+        "duration": "30",
+        "syllabus": {
+            "lesson1": "Introduction",
+            "lesson2": "Data Types",
+            "lesson3": "Operators",
+            "lesson4": "Array",
+            "lesson5": "Conditionals",
+            "lesson6": "Functions",
+            "lesson7": "Object",
+            "lesson8": "Project"
+        },
+        "price": "45",
+        "instructor": "Matt Henry",
+        "rating": "4.5"
     },
     {
         "id": 6,
-        "name": "JavaScript Programming"
+        "title": "Introduction To Basic Javascript For Absolute Beginners",
+        "image": "https://i.ytimg.com/vi/q7rnaVD_Wjc/maxresdefault.jpg",
+        "description": "Javascript among the most powerful and flexible programming languages of the web. It powers the dynamic behavior on most websites, including this. So enjoy the power of Javascript with us.",
+        "duration": "30",
+        "syllabus": {
+            "lesson1": "Introduction",
+            "lesson2": "Data Types",
+            "lesson3": "Operators",
+            "lesson4": "Array",
+            "lesson5": "Conditionals",
+            "lesson6": "Functions",
+            "lesson7": "Object",
+            "lesson8": "Project"
+        },
+        "price": "60",
+        "instructor": "Alison Moore",
+        "rating": "4.6"
     }
 ]
